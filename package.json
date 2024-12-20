@@ -1,0 +1,21 @@
+{
+    "name": "my-app",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "three": "^0.153.0"
+    },
+    "devDependencies": {
+      "react-scripts": "^5.0.1"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "deploy": "vercel --prod"
+    },
+    "author": "Vikram Kumar",
+    "license": "MIT"
+  }
+  
